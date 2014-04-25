@@ -1,0 +1,4 @@
+Jinja2==2.7.2
+MarkupSafe==0.21
+ipython==2.0.0
+pyzmq==14.2.0
